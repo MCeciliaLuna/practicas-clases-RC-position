@@ -1,0 +1,97 @@
+*{
+    background-color: black;
+}
+
+.caja-padre{
+    border: 5px dotted ;
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    position: relative;
+    right: -200px;
+}
+
+.punto{
+ background-color: black;
+ border-radius: 50%;
+ width: 40px;
+ height: 40px;
+}
+
+.punto1{
+ position: absolute;
+ top: 50px;
+ left: 50px;
+}
+
+.punto2{
+ position: absolute;
+ top: 50px;
+ right: 50px;
+}
+
+.punto3{
+ position: absolute;
+ top: 40%;
+ right: 45%;
+}
+
+.punto4{
+ position: absolute;
+bottom: 50px;
+left: 50px;
+}
+
+.punto5{
+ position: absolute;
+bottom: 50px;
+right: 50px;
+}
+
+.punto6{
+    position: absolute;
+ top: 40%;
+ right: 45%; 
+}
+
+.punto7{
+    position: absolute;
+    bottom: 140px;
+    left: 50px
+}
+
+.punto8{
+    position: absolute;
+    bottom: 140px;
+    right: 50px  
+}
+
+.punto9{
+    position: absolute;
+    top: 40px;
+    left: 130px;
+}
+
+.punto10{
+    position: absolute;
+    top: 40%;
+    right: 43%;
+}
+
+.punto11{
+        position: absolute;
+       bottom: 40px;
+       left: 130px;
+       }
+
+.punto12{
+    position: absolute;
+    top: 40%;
+    right: 17%;
+}
+
+.punto13{
+    position: absolute;
+    top: 40%;
+    right: 70%;
+}
